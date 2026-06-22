@@ -21,14 +21,3 @@ I'm an **Android & Kotlin Multiplatform Engineer** building mobile products, SDK
 ## Tech I use
 
 `Kotlin` · `Android` · `Jetpack Compose` · `Kotlin Multiplatform` · `Compose Multiplatform` · `Coroutines` · `Flow` · `Koin` · `Room` · `Gradle` · `WebSockets` · `WebRTC`
-
-## Projects worth checking
-
-* **Trending Projects** — Kotlin app for browsing software projects
-* **Contacts** — Android contacts app focused on UI and data handling
-* **Survey** — structured user input flows in Kotlin
-* **Medical Image Diagnosis Research** — computer vision / ML thesis project
-
-## Engineering taste
-
-I like codebases with clear boundaries, simple state models, useful tooling and features that feel smooth to users — especially when the system underneath is complex.
