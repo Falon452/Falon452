@@ -1,18 +1,34 @@
-# Hi, I'm Damian 👋
+# Hey, I'm Damian 👋
 
-I'm an **Android & Kotlin Multiplatform Engineer** focused on building reliable mobile products, SDKs and real-time user experiences.
+```kotlin
+val me = Engineer(
+    focus = listOf("Android", "Kotlin Multiplatform", "Compose"),
+    interests = listOf("mobile architecture", "real-time chat", "voice UX", "AI-powered interfaces"),
+    currentlyExploring = "how to make complex mobile systems feel simple"
+)
+```
 
-I work mainly with **Kotlin**, **Jetpack Compose**, **Kotlin Multiplatform**, **Compose Multiplatform**, mobile architecture, chat, voice UX and AI-powered mobile interfaces.
+I'm an **Android & Kotlin Multiplatform Engineer** building mobile products, SDKs and real-time user experiences.
 
-## Interests
+## What I like working on
 
-* Android & Kotlin Multiplatform
-* Jetpack Compose / Compose Multiplatform
-* Mobile architecture
-* Real-time chat and voice experiences
-* State machines and predictable UI state
-* AI-powered mobile features
+* Mobile apps with clean architecture and predictable state
+* Jetpack Compose / Compose Multiplatform interfaces
+* Real-time chat, streaming and voice flows
+* State machines, reducers and event-driven UI
+* AI-powered mobile experiences and bot-driven interfaces
 
-## Tech stack
+## Tech I use
 
-Kotlin · Android · Jetpack Compose · Kotlin Multiplatform · Compose Multiplatform · Coroutines · Flow · Koin · Room · Gradle · WebSockets · WebRTC · Clean Architecture · MVVM
+`Kotlin` · `Android` · `Jetpack Compose` · `Kotlin Multiplatform` · `Compose Multiplatform` · `Coroutines` · `Flow` · `Koin` · `Room` · `Gradle` · `WebSockets` · `WebRTC`
+
+## Projects worth checking
+
+* **Trending Projects** — Kotlin app for browsing software projects
+* **Contacts** — Android contacts app focused on UI and data handling
+* **Survey** — structured user input flows in Kotlin
+* **Medical Image Diagnosis Research** — computer vision / ML thesis project
+
+## Engineering taste
+
+I like codebases with clear boundaries, simple state models, useful tooling and features that feel smooth to users — especially when the system underneath is complex.
