@@ -1,23 +1,17 @@
 # Hey, I'm Damian 👋
 
-```kotlin
-val me = Engineer(
-    focus = listOf("Android", "Kotlin Multiplatform", "Compose"),
-    interests = listOf("mobile architecture", "real-time chat", "voice UX", "AI-powered interfaces"),
-    currentlyExploring = "how to make complex mobile systems feel simple"
-)
-```
+I'm an **AI-focused Android & Kotlin Multiplatform Engineer** building mobile systems that combine clean architecture, real-time communication, offline-capable flows and polished Compose UI.
 
-I'm an **Android & Kotlin Multiplatform Engineer** building mobile products, SDKs and real-time user experiences.
+My strongest areas are **Kotlin**, **Android**, **Jetpack Compose**, **Kotlin Multiplatform**, mobile architecture, real-time chat/voice flows and AI-powered user experiences.
 
-## What I like working on
+## What I like building
 
-* Mobile apps with clean architecture and predictable state
-* Jetpack Compose / Compose Multiplatform interfaces
-* Real-time chat, streaming and voice flows
-* State machines, reducers and event-driven UI
-* AI-powered mobile experiences and bot-driven interfaces
+* AI-powered mobile experiences and conversational interfaces
+* Offline-capable Android and Kotlin Multiplatform apps
+* Real-time chat, voice and event-driven flows
+* Compose UI with clean state handling
+* Mobile systems that stay maintainable as complexity grows
 
-## Tech I use
+## Tech
 
-`Kotlin` · `Android` · `Jetpack Compose` · `Kotlin Multiplatform` · `Compose Multiplatform` · `Coroutines` · `Flow` · `Koin` · `Room` · `Gradle` · `WebSockets` · `WebRTC`
+`Kotlin` · `Android` · `Jetpack Compose` · `Kotlin Multiplatform` · `Compose Multiplatform` · `Coroutines` · `Flow` · `Room` · `Koin` · `Gradle` · `WebSockets` · `WebRTC` · `Clean Architecture` · `LLM Integrations`
